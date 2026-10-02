@@ -1,0 +1,6 @@
+{
+  "name": "DevFree - Diretório de Serviços Gratuitos para Desenvolvedores e DevOps",
+  "description": "Diretório completo de serviços de nuvem SaaS, PaaS e IaaS com planos gratuitos permanentes para desenvolvedores e engenheiros DevOps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
